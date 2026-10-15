@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the public portfolio edition and acknowledge that the original academic analysis was completed by a four-person student team."
+title: "Privacy Threat Modeling with LINDDUN"
+type: report
+authors:
+  - family-names: Grouztidis
+    given-names: Spyridon
+version: 1.0.0
+date-released: 2026-10-15
